@@ -59,3 +59,19 @@ Activities:
 ![](lab5-act.png)
 
 [Click Me To See The Lab5](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab5)
+
+
+
+### Lab6. Code Reuse
+
+![](lab6-aiming.png)
+
+Activities:
+
+![](lab6-act.png)
+
+[Click Me To See The Lab6](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab6)
+
+
+
+## END
