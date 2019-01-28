@@ -47,3 +47,15 @@ Activities:
 ![](lab4-act.png)
 
 [Click Me To See The lab4](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab4)
+
+
+
+### Lab5. Control Statements
+
+![](lab5-aiming.png)
+
+Activities:
+
+![](lab5-act.png)
+
+[Click Me To See The Lab5](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab5)
