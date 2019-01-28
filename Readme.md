@@ -10,4 +10,4 @@ Activities:
 
 ![](lab1-act.png)
 
-[](lab1\lab1.py)
+[Click Me To See The Lab1](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab1/)
