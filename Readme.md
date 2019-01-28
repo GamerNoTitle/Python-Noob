@@ -10,4 +10,4 @@ Activities:
 
 ![](lab1-act.png)
 
-[](.\lab1\lab1.py)
+[](lab1\lab1.py)
