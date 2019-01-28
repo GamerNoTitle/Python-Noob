@@ -34,10 +34,16 @@ Activities:
 
 ![](lab3-act.png)
 
-
+[Click Me To See The Lab3](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab3)
 
 
 
 ### Lab4. Control Statements
 
 ![](lab4-aiming.png)
+
+Activities:
+
+![](lab4-act.png)
+
+[Click Me To See The lab4](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab4)
