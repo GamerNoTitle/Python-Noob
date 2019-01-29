@@ -1,6 +1,8 @@
 def cal():
     q=float(input("请输入用水（吨）："))
-    if q<=10:
+    if q<0:
+        print("Error:Invalid Number!")
+    elif q>=0 and q<=10:
         price=q*1.5
         print(price);print("元")
     elif q>10 and q<=50:
