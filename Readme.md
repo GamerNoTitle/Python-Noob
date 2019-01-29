@@ -2,7 +2,7 @@
 
 本项目**Python-Noob**参考了《<u>Python For Kids - A Playful Introduction to Programming</u>》(Produced By Jason R. Briggs)按照《<u>PFK lessonplans full</u>》（nostarch.com/pfk) 完成的项目。
 
-### Lab1. Hello World!
+### 1. Hello World!
 
 ![](lab1-aiming.png)
 
@@ -14,7 +14,7 @@ Activities:
 
 
 
-### Lab2. Storing Things in Python
+### 2. Storing Things in Python
 
 ![](lab2-aiming.png)
 
@@ -26,7 +26,7 @@ Activities:
 
 
 
-### Lab3. Drawing with the Turtle
+### 3. Drawing with the Turtle
 
 ![](lab3-aiming.png)
 
@@ -38,7 +38,7 @@ Activities:
 
 
 
-### Lab4. Control Statements
+### 4. Control Statements
 
 ![](lab4-aiming.png)
 
@@ -50,7 +50,7 @@ Activities:
 
 
 
-### Lab5. Control Statements
+### 5. Control Statements
 
 ![](lab5-aiming.png)
 
@@ -62,7 +62,7 @@ Activities:
 
 
 
-### Lab6. Code Reuse
+### 6. Code Reuse
 
 ![](lab6-aiming.png)
 
@@ -72,7 +72,43 @@ Activities:
 
 [Click Me To See The Lab6](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab6)
 
+### 7. Price Question
 
+问题如下：
+
+```
+用Python语言实现：
+使用10吨水以下每吨水收取1.5元；使用50吨以下，超过10吨的部分每吨3元；使用超过50吨水，超过部分每吨水收取4元
+
+E.G.
+Input：100
+Output:335元
+```
+
+
+
+具体代码如下
+
+```python
+def cal():
+    q=float(input("请输入用水（吨）："))
+    if q<0:
+        print("Error:Invalid Number!")
+    elif q>=0 and q<=10:
+        price=q*1.5
+        print(price);print("元")
+    elif q>10 and q<=50:
+       price=3*q-15
+       print(price);print("元")
+    elif q>50:
+       price=4*q-65
+       print(price);print("元")
+x=0
+while x==0:
+    cal()
+```
+
+[Click Me To See The Price Question](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/Price-Question)
 
 ## [Click Me To Back To the Top!](http://hqsmartbot.com:10081/WuPeixi/Python-Noob#readmemd)
 
