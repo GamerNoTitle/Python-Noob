@@ -10,7 +10,7 @@ Activities:
 
 ![](lab1-act.png)
 
-[Click Me To See The Lab1](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab1/)
+[Click Me To See The Lab1](https://github.com/GamerNoTitle/Python-Noob/tree/master/lab1)
 
 
 
@@ -22,7 +22,7 @@ Activities:
 
 ![](lab2-act.png)
 
-[Click Me To See The Lab2](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab2)
+[Click Me To See The Lab2](https://github.com/GamerNoTitle/Python-Noob/tree/master/lab2)
 
 
 
@@ -34,7 +34,7 @@ Activities:
 
 ![](lab3-act.png)
 
-[Click Me To See The Lab3](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab3)
+[Click Me To See The Lab3](https://github.com/GamerNoTitle/Python-Noob/tree/master/lab3)
 
 
 
@@ -46,7 +46,7 @@ Activities:
 
 ![](lab4-act.png)
 
-[Click Me To See The lab4](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab4)
+[Click Me To See The lab4](https://github.com/GamerNoTitle/Python-Noob/tree/master/lab4)
 
 
 
@@ -58,7 +58,7 @@ Activities:
 
 ![](lab5-act.png)
 
-[Click Me To See The Lab5](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab5)
+[Click Me To See The Lab5](https://github.com/GamerNoTitle/Python-Noob/tree/master/lab5)
 
 
 
@@ -70,7 +70,7 @@ Activities:
 
 ![](lab6-act.png)
 
-[Click Me To See The Lab6](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/lab6)
+[Click Me To See The Lab6](https://github.com/GamerNoTitle/Python-Noob/tree/master/lab6)
 
 ### 7. Price Question
 
@@ -108,8 +108,8 @@ while x==0:
     cal()
 ```
 
-[Click Me To See The Price Question](http://hqsmartbot.com:10081/WuPeixi/Python-Noob/src/master/Price-Question)
+[Click Me To See The Price Question](https://github.com/GamerNoTitle/Python-Noob/tree/master/price-question)
 
-## [Click Me To Back To the Top!](http://hqsmartbot.com:10081/WuPeixi/Python-Noob#readmemd)
+## [Click Me To Back To the Top!](https://github.com/GamerNoTitle/Python-Noob#readmemd)
 
 ## END
