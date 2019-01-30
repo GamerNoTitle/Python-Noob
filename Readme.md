@@ -108,7 +108,7 @@ while x==0:
     cal()
 ```
 
-[Click Me To See The Price Question](https://github.com/GamerNoTitle/Python-Noob/tree/master/price-question)
+[Click Me To See The Price Question](https://github.com/GamerNoTitle/Python-Noob/tree/master/Price-Question)
 
 ## [Click Me To Back To the Top!](https://github.com/GamerNoTitle/Python-Noob#readmemd)
 
